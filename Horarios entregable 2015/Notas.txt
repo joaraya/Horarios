@@ -1,0 +1,2 @@
+AGREGAR PARA QUE NO SE NECESITE OFFICE INSTALADO
+validar en el setup que si ya esta que se reemplace la version 

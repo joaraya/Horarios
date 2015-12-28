@@ -1,0 +1,129 @@
+c:\users\joseph\documents\visual studio 2013\Projects\Horarios\Horarios\bin\Debug\Horarios.exe.config
+c:\users\joseph\documents\visual studio 2013\Projects\Horarios\Horarios\bin\Debug\Horarios.exe
+c:\users\joseph\documents\visual studio 2013\Projects\Horarios\Horarios\bin\Debug\Horarios.pdb
+c:\users\joseph\documents\visual studio 2013\Projects\Horarios\Horarios\obj\Debug\Horarios.csprojResolveAssemblyReference.cache
+c:\users\joseph\documents\visual studio 2013\Projects\Horarios\Horarios\obj\Debug\Horarios.Properties.Resources.resources
+c:\users\joseph\documents\visual studio 2013\Projects\Horarios\Horarios\obj\Debug\Horarios.csproj.GenerateResource.Cache
+c:\users\joseph\documents\visual studio 2013\Projects\Horarios\Horarios\obj\Debug\Horarios.exe
+c:\users\joseph\documents\visual studio 2013\Projects\Horarios\Horarios\obj\Debug\Horarios.pdb
+c:\users\joseph\documents\visual studio 2013\Projects\Horarios\Horarios\obj\Debug\Horarios.Form1.resources
+c:\users\joseph\documents\visual studio 2013\Projects\Horarios\Horarios\obj\Debug\Horarios.csproj.ResolveComReference.cache
+c:\users\joseph\documents\visual studio 2013\Projects\Horarios\Horarios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Joseph\documents\visual studio 2013\Projects\Horarios\Horarios\obj\Debug\Horarios.Interfaz.Detalles.resources
+C:\Users\Joseph\documents\visual studio 2013\Projects\Horarios\Horarios\obj\Debug\Horarios.Interfaz.Choques.resources
+F:\TODO\Miniproyectos personales\Intentos de proyecto\Horarios\Horarios\bin\Debug\Horarios.exe.config
+F:\TODO\Miniproyectos personales\Intentos de proyecto\Horarios\Horarios\obj\Debug\Horarios.csproj.ResolveComReference.cache
+F:\TODO\Miniproyectos personales\Intentos de proyecto\Horarios\Horarios\obj\Debug\Horarios.exe
+F:\TODO\Miniproyectos personales\Intentos de proyecto\Horarios\Horarios\obj\Debug\Horarios.pdb
+C:\Users\Joseph\Desktop\Horarios\Horarios\bin\Debug\Horarios.exe.config
+C:\Users\Joseph\Desktop\Horarios\Horarios\obj\Debug\Horarios.csproj.ResolveComReference.cache
+C:\Users\Joseph\Desktop\Horarios\Horarios\obj\Debug\Horarios.exe
+C:\Users\Joseph\Desktop\Horarios\Horarios\obj\Debug\Horarios.pdb
+C:\Users\Joseph\Desktop\Horarios\Horarios\bin\Debug\Horarios.exe
+C:\Users\Joseph\Desktop\Horarios\Horarios\bin\Debug\Horarios.pdb
+C:\Users\Joseph\Desktop\Horarios\Horarios\obj\Debug\Horarios.Interfaz.Choques.resources
+C:\Users\Joseph\Desktop\Horarios\Horarios\obj\Debug\Horarios.Interfaz.Detalles.resources
+C:\Users\Joseph\Desktop\Horarios\Horarios\obj\Debug\Horarios.Form1.resources
+C:\Users\Joseph\Desktop\Horarios\Horarios\obj\Debug\Horarios.Properties.Resources.resources
+C:\Users\Joseph\Desktop\Horarios\Horarios\obj\Debug\Horarios.csproj.GenerateResource.Cache
+C:\Users\Joseph\Desktop\Horarios\Horarios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Joseph\Desktop\Horarios2\Horarios\bin\Debug\Horarios.exe.config
+C:\Users\Joseph\Desktop\Horarios2\Horarios\bin\Debug\Horarios.exe
+C:\Users\Joseph\Desktop\Horarios2\Horarios\bin\Debug\Horarios.pdb
+C:\Users\Joseph\Desktop\Horarios2\Horarios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Joseph\Desktop\Horarios2\Horarios\obj\Debug\Horarios.csproj.ResolveComReference.cache
+C:\Users\Joseph\Desktop\Horarios2\Horarios\obj\Debug\Horarios.Interfaz.Choques.resources
+C:\Users\Joseph\Desktop\Horarios2\Horarios\obj\Debug\Horarios.Interfaz.Detalles.resources
+C:\Users\Joseph\Desktop\Horarios2\Horarios\obj\Debug\Horarios.Form1.resources
+C:\Users\Joseph\Desktop\Horarios2\Horarios\obj\Debug\Horarios.Properties.Resources.resources
+C:\Users\Joseph\Desktop\Horarios2\Horarios\obj\Debug\Horarios.csproj.GenerateResource.Cache
+C:\Users\Joseph\Desktop\Horarios2\Horarios\obj\Debug\Horarios.exe
+C:\Users\Joseph\Desktop\Horarios2\Horarios\obj\Debug\Horarios.pdb
+C:\Users\Joseph\Desktop\Horarios2\Horarios\obj\Debug\Horarios.csprojResolveAssemblyReference.cache
+D:\Horarios2\Horarios\bin\Debug\Horarios.exe.config
+D:\Horarios2\Horarios\obj\Debug\Horarios.csproj.ResolveComReference.cache
+D:\Horarios2\Horarios\obj\Debug\Horarios.exe
+D:\Horarios2\Horarios\obj\Debug\Horarios.pdb
+D:\Horarios2\Horarios\bin\Debug\Horarios.exe
+D:\Horarios2\Horarios\bin\Debug\Horarios.pdb
+D:\Horarios2\Horarios\obj\Debug\Horarios.Interfaz.Choques.resources
+D:\Horarios2\Horarios\obj\Debug\Horarios.Interfaz.Detalles.resources
+D:\Horarios2\Horarios\obj\Debug\Horarios.Properties.Resources.resources
+D:\Horarios2\Horarios\obj\Debug\Horarios.csproj.GenerateResource.Cache
+D:\Horarios2\Horarios\obj\Debug\Horarios.frmPrincipal.resources
+D:\Proyecto Horarios Final\Horarios\bin\Debug\Horarios.exe.config
+D:\Proyecto Horarios Final\Horarios\obj\Debug\Horarios.csproj.ResolveComReference.cache
+D:\Proyecto Horarios Final\Horarios\obj\Debug\Horarios.exe
+D:\Proyecto Horarios Final\Horarios\obj\Debug\Horarios.pdb
+D:\Proyecto Horarios Final\Horarios\bin\Debug\Horarios.exe
+D:\Proyecto Horarios Final\Horarios\bin\Debug\Horarios.pdb
+D:\Proyecto Horarios Final\Horarios\obj\Debug\Horarios.csprojResolveAssemblyReference.cache
+D:\Proyecto Horarios Final\Horarios\obj\Debug\Horarios.Interfaz.Choques.resources
+D:\Proyecto Horarios Final\Horarios\obj\Debug\Horarios.Interfaz.Detalles.resources
+D:\Proyecto Horarios Final\Horarios\obj\Debug\Horarios.frmPrincipal.resources
+D:\Proyecto Horarios Final\Horarios\obj\Debug\Horarios.Properties.Resources.resources
+D:\Proyecto Horarios Final\Horarios\obj\Debug\Horarios.csproj.GenerateResource.Cache
+C:\Users\Joseph\Desktop\Proyecto Horarios Final\Horarios\bin\Debug\Horarios.exe.config
+C:\Users\Joseph\Desktop\Proyecto Horarios Final\Horarios\bin\Debug\Horarios.exe
+C:\Users\Joseph\Desktop\Proyecto Horarios Final\Horarios\bin\Debug\Horarios.pdb
+C:\Users\Joseph\Desktop\Proyecto Horarios Final\Horarios\obj\Debug\Horarios.csproj.ResolveComReference.cache
+C:\Users\Joseph\Desktop\Proyecto Horarios Final\Horarios\obj\Debug\Horarios.Interfaz.Choques.resources
+C:\Users\Joseph\Desktop\Proyecto Horarios Final\Horarios\obj\Debug\Horarios.Interfaz.Detalles.resources
+C:\Users\Joseph\Desktop\Proyecto Horarios Final\Horarios\obj\Debug\Horarios.frmPrincipal.resources
+C:\Users\Joseph\Desktop\Proyecto Horarios Final\Horarios\obj\Debug\Horarios.Properties.Resources.resources
+C:\Users\Joseph\Desktop\Proyecto Horarios Final\Horarios\obj\Debug\Horarios.csproj.GenerateResource.Cache
+C:\Users\Joseph\Desktop\Proyecto Horarios Final\Horarios\obj\Debug\Horarios.exe
+C:\Users\Joseph\Desktop\Proyecto Horarios Final\Horarios\obj\Debug\Horarios.pdb
+H:\TODO\Miniproyectos personales\HORARIOS FINAL 2015\Proyecto Horarios Final\Horarios\bin\Debug\Horarios.exe.config
+H:\TODO\Miniproyectos personales\HORARIOS FINAL 2015\Proyecto Horarios Final\Horarios\obj\Debug\Horarios.csproj.ResolveComReference.cache
+H:\TODO\Miniproyectos personales\HORARIOS FINAL 2015\Proyecto Horarios Final\Horarios\obj\Debug\Horarios.exe
+H:\TODO\Miniproyectos personales\HORARIOS FINAL 2015\Proyecto Horarios Final\Horarios\obj\Debug\Horarios.pdb
+H:\TODO\Miniproyectos personales\HORARIOS FINAL 2015\Horarios entregable 2015\Horarios\bin\Debug\Horarios.exe.config
+H:\TODO\Miniproyectos personales\HORARIOS FINAL 2015\Horarios entregable 2015\Horarios\obj\Debug\Horarios.csproj.ResolveComReference.cache
+H:\TODO\Miniproyectos personales\HORARIOS FINAL 2015\Horarios entregable 2015\Horarios\obj\Debug\Horarios.exe
+H:\TODO\Miniproyectos personales\HORARIOS FINAL 2015\Horarios entregable 2015\Horarios\obj\Debug\Horarios.pdb
+H:\TODO\Miniproyectos personales\HORARIOS FINAL 2015\Horarios entregable 2015\Horarios\obj\Debug\Horarios.Interfaz.Choques.resources
+H:\TODO\Miniproyectos personales\HORARIOS FINAL 2015\Horarios entregable 2015\Horarios\obj\Debug\Horarios.Interfaz.Detalles.resources
+H:\TODO\Miniproyectos personales\HORARIOS FINAL 2015\Horarios entregable 2015\Horarios\obj\Debug\Horarios.frmPrincipal.resources
+H:\TODO\Miniproyectos personales\HORARIOS FINAL 2015\Horarios entregable 2015\Horarios\obj\Debug\Horarios.Properties.Resources.resources
+H:\TODO\Miniproyectos personales\HORARIOS FINAL 2015\Horarios entregable 2015\Horarios\obj\Debug\Horarios.csproj.GenerateResource.Cache
+H:\TODO\Miniproyectos personales\HORARIOS FINAL 2015\Horarios entregable 2015\Horarios\bin\Debug\Horarios.exe
+H:\TODO\Miniproyectos personales\HORARIOS FINAL 2015\Horarios entregable 2015\Horarios\bin\Debug\Horarios.pdb
+C:\Users\Joseph\Desktop\Horarios entregable 2015\Horarios\bin\Debug\Horarios.exe.config
+C:\Users\Joseph\Desktop\Horarios entregable 2015\Horarios\obj\Debug\Horarios.csproj.ResolveComReference.cache
+C:\Users\Joseph\Desktop\Horarios entregable 2015\Horarios\obj\Debug\Horarios.exe
+C:\Users\Joseph\Desktop\Horarios entregable 2015\Horarios\obj\Debug\Horarios.pdb
+C:\Users\Joseph\Desktop\Horarios entregable 2015\Horarios\bin\Debug\Horarios.exe
+C:\Users\Joseph\Desktop\Horarios entregable 2015\Horarios\bin\Debug\Horarios.pdb
+C:\Users\Joseph\Desktop\Horarios entregable 2015\Horarios\obj\Debug\Horarios.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Desktop\Horarios entregable 2015\Horarios\obj\Debug\Horarios.Interfaz.Choques.resources
+C:\Users\Joseph\Desktop\Horarios entregable 2015\Horarios\obj\Debug\Horarios.Interfaz.Detalles.resources
+C:\Users\Joseph\Desktop\Horarios entregable 2015\Horarios\obj\Debug\Horarios.frmPrincipal.resources
+C:\Users\Joseph\Desktop\Horarios entregable 2015\Horarios\obj\Debug\Horarios.Properties.Resources.resources
+C:\Users\Joseph\Desktop\Horarios entregable 2015\Horarios\obj\Debug\Horarios.csproj.GenerateResource.Cache
+H:\Horarios entregable 2015\Horarios\bin\Debug\Horarios.exe.config
+H:\Horarios entregable 2015\Horarios\bin\Debug\Horarios.exe
+H:\Horarios entregable 2015\Horarios\bin\Debug\Horarios.pdb
+H:\Horarios entregable 2015\Horarios\obj\Debug\Horarios.csproj.ResolveComReference.cache
+H:\Horarios entregable 2015\Horarios\obj\Debug\Horarios.Interfaz.Choques.resources
+H:\Horarios entregable 2015\Horarios\obj\Debug\Horarios.Interfaz.Detalles.resources
+H:\Horarios entregable 2015\Horarios\obj\Debug\Horarios.frmPrincipal.resources
+H:\Horarios entregable 2015\Horarios\obj\Debug\Horarios.Properties.Resources.resources
+H:\Horarios entregable 2015\Horarios\obj\Debug\Horarios.csproj.GenerateResource.Cache
+H:\Horarios entregable 2015\Horarios\obj\Debug\Horarios.exe
+H:\Horarios entregable 2015\Horarios\obj\Debug\Horarios.pdb
+F:\Horarios entregable 2015\Horarios\bin\Debug\Horarios.exe.config
+F:\Horarios entregable 2015\Horarios\obj\Debug\Horarios.csproj.ResolveComReference.cache
+F:\Horarios entregable 2015\Horarios\obj\Debug\Horarios.exe
+F:\Horarios entregable 2015\Horarios\obj\Debug\Horarios.pdb
+C:\Users\JosephAR\Desktop\Horarios entregable 2015\Horarios\bin\Debug\Horarios.exe.config
+C:\Users\JosephAR\Desktop\Horarios entregable 2015\Horarios\obj\Debug\Horarios.csproj.ResolveComReference.cache
+C:\Users\JosephAR\Desktop\Horarios entregable 2015\Horarios\obj\Debug\Horarios.exe
+C:\Users\JosephAR\Desktop\Horarios entregable 2015\Horarios\obj\Debug\Horarios.pdb
+C:\Users\JosephAR\Desktop\Horarios entregable 2015\Horarios\obj\Debug\Horarios.Interfaz.Choques.resources
+C:\Users\JosephAR\Desktop\Horarios entregable 2015\Horarios\obj\Debug\Horarios.Interfaz.Detalles.resources
+C:\Users\JosephAR\Desktop\Horarios entregable 2015\Horarios\obj\Debug\Horarios.frmPrincipal.resources
+C:\Users\JosephAR\Desktop\Horarios entregable 2015\Horarios\obj\Debug\Horarios.Properties.Resources.resources
+C:\Users\JosephAR\Desktop\Horarios entregable 2015\Horarios\obj\Debug\Horarios.csproj.GenerateResource.Cache
+C:\Users\JosephAR\Desktop\Horarios entregable 2015\Horarios\bin\Debug\Horarios.exe
+C:\Users\JosephAR\Desktop\Horarios entregable 2015\Horarios\bin\Debug\Horarios.pdb
